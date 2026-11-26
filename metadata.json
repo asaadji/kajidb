@@ -1,0 +1,6 @@
+{
+  "name": "KAJILIB — Perpustakaan Digital Terpadu",
+  "description": "Platform perpustakaan digital berbasis web dengan sistem peminjaman buku, manajemen koleksi, pelaporan otomatis, dan dashboard admin serta anggota secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
